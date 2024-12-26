@@ -1,4 +1,4 @@
-# Data Scientist Student
+# Junior Data Scientist
 
 ### Education
 St. Peter's University
